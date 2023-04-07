@@ -1,5 +1,5 @@
-# Primeiro Repósitório
-Desafio de Projeto sobre Git/Github da DIO.
+# Desafio de Projeto sobre Git/Github da DIO
+Repositório criado para Desafo do Projeto.
 
  Neste projeto será exibida uma lista de cursos para iniciantes em programação. Sabendo-se que muitos não sabem por onde começar, nem quais linguagens escolher, colocarei a lista na ordem que facilitará seu aprendizado e por fim apresentará algumas linguagens para que eles possam escolher a(s) que mais lhes interessem.
  
